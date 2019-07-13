@@ -46,13 +46,13 @@ print(musics[1]) //2
 
 print(musics[2]) //3
 
-print(musics[0]) //聖
+print(youtubers[0]) //聖
 
-print(musics[1]) //火
+print(youtubers[1]) //火
 
-print(musics[2]) //尊
+print(youtubers[2]) //尊
 
-print(musics[3]) //玉
+print(youtubers[3]) //玉
 
 ```
 
